@@ -1,7 +1,7 @@
 ---
-title : "demo"
+title : "Demo"
 layout: "career"
-description: "Do what you enjoy, invest for your future and reap the benefits of working with the worlds first advancement company that puts people first."
+description: "Connect to our website and see your plant's stats"
 
 
 ######### about ###############
@@ -17,9 +17,9 @@ about:
 gallery:
   enable : true
   images:
-  - "images/gallery/gallery-01.png"
-  - "images/gallery/gallery-02.png"
-  - "images/gallery/gallery-03.png"
+  - "images/isaac-smith-6EnTPvPPL6I-unsplash.jpg"
+  - "images/scott-graham-5fNmWej4tAA-unsplash.jpg"
+  - "images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg"
 
 
 ########### funfacts ##########
@@ -30,19 +30,19 @@ funfacts:
   - name : "Flexible hours"
     icon : "fa-bicycle"
     content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
-    
+
   - name : "Free Snacks"
     icon : "fa-bell-o"
     content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
-    
+
   - name : "Recreation"
     icon : "fa-microchip"
     content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
-    
+
   - name : "5 Working Days"
     icon : "fa-plug"
     content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
-    
+
 ########### Career ############
 career:
   enable : true
