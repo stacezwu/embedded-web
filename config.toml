@@ -22,9 +22,9 @@ URL = "products"
 weight = 2
 
 [[menu.main]]
-name = "Career"
+name = "Demo"
 pre = ""
-URL = "career"
+URL = "demo"
 weight = 3
 
 [[menu.main]]
@@ -36,8 +36,8 @@ weight = 4
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
-logo_width = "120px"
+logo = "images/feronia.png"
+logo_width = "60px"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
