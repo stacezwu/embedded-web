@@ -25,23 +25,23 @@ gallery:
 ########### funfacts ##########
 funfacts:
   enable : true
-  title : "amenities for you to enjoy"
+  title : "System Features"
   funfacts_item:
-  - name : "Flexible hours"
+  - name : "Sustainable"
     icon : "fa-bicycle"
-    content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+    content : "Good for the environment."
 
-  - name : "Free Snacks"
+  - name : "Notifications"
     icon : "fa-bell-o"
-    content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+    content : "PING! Your plant is dead."
 
-  - name : "Recreation"
+  - name : "Superfast Chip"
     icon : "fa-microchip"
-    content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+    content : "Calculate very fast."
 
-  - name : "5 Working Days"
+  - name : "Fast Charge"
     icon : "fa-plug"
-    content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+    content : "Doesn't run on electricity, runs on water."
 
 ########### Career ############
 career:
