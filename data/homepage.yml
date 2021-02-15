@@ -1,8 +1,8 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Feronia is Omega"
-  content : "Your plant will never die, thanks to our innovative new technology."
+  title : "Feronia"
+  content : "Plant, Power, Protect."
   image : "images/plant.jpg"
   button:
     enable : true
@@ -12,9 +12,10 @@ banner:
 #################### Mission #####################
 mission:
   enable : true
-  title : "Propel Advancement"
+  title : "Breathe New Life Into Your Home"
   section : "MISSION"
-  content : "Introducing the world’s first technological plant care company. With our state-of-art technology, "
+  content : "Introducing the world’s first technological plant care product. With our state-of-art technology,
+  we monitor your plant's environment 24/7. Whether you're home or away, we always have your back."
   video_thumb: "images/video-thumb.jpg"
   video_id: "ResipmZmpDU"
 
@@ -23,17 +24,17 @@ vision:
   enable : true
   section : "VISION"
   vision_item:
-  - title : "People First"
-    image : "images/vision/vision-01.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
-    
-  - title : "Employee Culture"
+  - title : "Plant"
+    image : "images/photo-1477554193778-9562c28588c0.jpeg"
+    content : "Non-intrusive sensors which complement your plant's aesthetic."
+
+  - title : "Power"
     image : "images/vision/vision-02.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
-    
-  - title : "The Omega Way"
+    content : "Very efficient, very good. <br>Elon Musk -  Sponsor"
+
+  - title : "Protect"
     image : "images/vision/vision-03.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "Very good at protecting."
 
 
 #################### product ####################
@@ -41,20 +42,20 @@ product:
   enable : true
   section : "Products"
   title : "Some Of Our Best Products"
-  content : "See the innovation that has come through the Rio way. As an advancement company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
+  content : "See the innovation that has come through the Feronia's novel way of thinking. As an advancement company, the goal is to continuously find areas to help make the world a cleaner, safer place."
   product_item:
   - title : "Ecosystem"
-    image : "images/product/product-03.jpg"
+    image : "images/photo-1518531933037-91b2f5f229cc.jpeg"
     content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
     project_url : "#"
-    
+
   - title : "Objects"
-    image : "images/product/product-02.jpg"
+    image : "images/photo-1518531933037-91b2f5f229cc.jpeg"
     content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
     project_url : "#"
-    
+
   - title : "Publisher"
-    image : "images/product/product-03.jpg"
+    image : "images/photo-1518531933037-91b2f5f229cc.jpeg"
     content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
     project_url : "#"
 
@@ -68,15 +69,18 @@ contact:
   content : "The dawn of the digital age and the need for a significant leap forward is here. We believe that every business has the opportunity to move into this new age with the right mindset. Contact us today to begin understanding how Omega can propel your business."
 
 ################### next generation products #################
-# need to implement html 
+# need to implement html
 future:
   enable : true
   section : "NEXT GENERATION"
   title : "Our Future Products"
-  content : " Our exclusive research and development team have been working on the next generations in aim for better accuracy for your delicate plants."
+  content : " Our exclusive research and development team have been working on the next generations in aim for better accuracy for your delicate plants.
+  <br><br> - List of advanced features we haven't made yet
+  <br> - Bloop
+  <br> - bleep"
   button_label : "Apply Now"
   button_link : "career"
-  
+
 ################### call to action #################
 call_to_action:
   enable : false
