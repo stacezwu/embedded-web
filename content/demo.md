@@ -27,9 +27,9 @@ funfacts:
   enable : true
   title : "System Features"
   funfacts_item:
-  - name : "Sustainable"
+  - name : "Real-Time"
     icon : "fa-bicycle"
-    content : "Good for the environment."
+    content : "Feedback from sensors."
 
   - name : "Notifications"
     icon : "fa-bell-o"
@@ -39,9 +39,9 @@ funfacts:
     icon : "fa-microchip"
     content : "Calculate very fast."
 
-  - name : "Fast Charge"
+  - name : "Hazard Free"
     icon : "fa-plug"
-    content : "Doesn't run on electricity, runs on water."
+    content : "Sensors are placed ."
 
 ########### Career ############
 career:
