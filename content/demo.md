@@ -48,13 +48,13 @@ career:
   enable : true
   title : "Plant List"
   job_item:
-  - name : "Babe plant"
-    location : "My heart"
+  - name : "Rose"
+    location : "Home"
     idprefix: "babe-plant-id"
-  - name : "Babe plant 2 "
-    location : "My heart"
+  - name : "Cactus"
+    location : "Home"
     idprefix: "babe-plant-2-id"
-  - name : "Babe plant 3"
-    location : "My heart"
+  - name : "Peace Lily"
+    location : "Office"
     idprefix: "babe-plant-3-id"
 ---
