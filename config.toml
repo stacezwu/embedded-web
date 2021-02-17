@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://stacezwu.github.io/embedded-web"
 title = "Feronia"
 theme = "omega-hugo"
 # google analytics
