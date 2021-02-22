@@ -63,26 +63,32 @@ product:
 ###################### Contact ####################
 contact:
   enable : true
-  title : "contact us"
-  image : "images/map-bg.jpg"
-  content : "Find Stacey Wu, she is usually in the lib."
+  section : "NEXT GENERATION"
+  title : "Our Future Products"
+  # image : "images/map-bg.jpg"
+  content : " Our exclusive research and development team have been working on the next generations in aim for better accuracy for your delicate plants."
+
 
 ################### next generation products #################
 # need to implement html
 future:
-  enable : true
+  enable : false 
   section : "NEXT GENERATION"
   title : "Our Future Products"
   content : " Our exclusive research and development team have been working on the next generations in aim for better accuracy for your delicate plants.
   <br><br> - List of advanced features we haven't made yet
   <br> - Bloop
   <br> - bleep"
-  button_label : "Apply Now"
-  button_link : "career"
+  # button_label : "Apply Now"
+  # button_link : "career"
 
 ################### call to action #################
 call_to_action:
   enable : false
-  title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
-  button_label : "Apply Now"
+  section : "NEXT GENERATION"
+  title : "Our Future Products"
+  content : " Our exclusive research and development team have been working on the next generations in aim for better accuracy for your delicate plants.
+  <br><br> - List of advanced features we haven't made yet
+  <br> - Bloop
+  <br> - bleep"
   button_link : "career"

@@ -105,9 +105,9 @@
 {{ if site.Data.homepage.product.enable }}
 {{ with site.Data.homepage.product }}
 <section class="products" id="products">
-  <div class="bg">
+  <!-- <div class="bg">
     <img src="{{`images/rudy-issa-h2noctyHJqI-unsplash.jpg` | absURL}}" class="img-fluid" alt="section-bg">
-  </div>
+  </div> -->
   <div class="left-shape">
     <img src="{{`images/left-shape.png` | absURL}}" class="img-fluid" alt="left-shape">
   </div>
@@ -151,7 +151,7 @@
 {{ end }}
 {{ end }}
 
-{{ if site.Data.homepage.future.enable }}
+<!-- {{ if site.Data.homepage.future.enable }}
 {{ with site.Data.homepage.future }}
 <div class="contact" id="future">
   <div class="container">
@@ -171,7 +171,8 @@
   </div>
 </div>
 {{ end }}
-{{ end }}
+{{ end }} -->
+
 
 
 {{ if site.Data.homepage.contact.enable }}
@@ -192,41 +193,9 @@
       </div>
     </div>
   </div>
-  <!-- <div class="map-div">
-    {{ with site.Params.map }}
-    <div id="map" data-center-lat="{{.map_center_lat}}" data-center-lng="{{.map_center_lng}}" data-position-lat="{{.map_position_lat}}" data-position-lng="{{.map_position_lng}}" data-marker="{{.map_marker | absURL }}" data-name="{{site.Title}}"></div>
-    {{ end }}
-    <div class="office">
-      <div class="contents">
-        <img src="{{ .image |absURL}}" alt="office">
-        <div class="address">
-          <h2>{{ site.Params.contact_info | markdownify}}</h2>
-          <ul class="social-list list-inline">
-            {{ range site.Params.social }}
-            <li class="list-inline-item">
-              <a href="{{ .link | safeURL }}" target="_blank">
-                <i class="fa {{ .icon }}"></i>
-              </a>
-            </li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div> -->
 </div>
 {{ end }}
 {{ end }}
 
-<!-- {{ if site.Data.homepage.call_to_action.enable }}
-{{ with site.Data.homepage.call_to_action }}
-<footer class="footer">
-	<div class="call-to-action text-center">
-		<h2>{{ .title | markdownify }}</h2>
-		<a href="{{.button_link | absURL }}">{{.button_label}}</a>
-	</div>
-</footer>
-{{end}}
-{{end}} -->
 
 {{ end }}
