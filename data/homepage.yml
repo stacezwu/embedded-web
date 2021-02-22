@@ -17,7 +17,7 @@ mission:
   content : "Introducing the world’s first technological plant care product. With our state-of-art technology,
   we monitor your plant's environment 24/7. Whether you're home or away, we always have your back."
   video_thumb: "images/video-thumb.jpg"
-  video_id: "ResipmZmpDU"
+  #video_id: "ResipmZmpDU"
 
 #################### Vission #####################
 vision:
