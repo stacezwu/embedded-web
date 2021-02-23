@@ -51,12 +51,12 @@ product:
 
   - title : "Feronia Guardian X200"
     image : "images/photo-1518531933037-91b2f5f229cc.jpeg"
-    content : "This version allows your plant to water itself."
+    content : "This version physically cares for your plant and rectifies any environmental imbalances."
     project_url : "#"
 
   - title : "Feronia Guardian X500"
     image : "images/photo-1518531933037-91b2f5f229cc.jpeg"
-    content : "Our most advanced model allows your plant to develop a conscience and speak to you."
+    content : "Our most advanced model incorporates machine learning models to give more accurate guidance on plant wellbeing. "
     project_url : "#"
 
 
@@ -66,13 +66,17 @@ contact:
   section : "NEXT GENERATION"
   title : "Our Future Products"
   # image : "images/map-bg.jpg"
-  content : " Our exclusive research and development team have been working on the next generations in aim for better accuracy for your delicate plants."
+  content : " Our exclusive research and development team have been working on the next generations in aim for better accuracy for your delicate plants.
+  <br><br> List of advanced features:
+  <br> - Using machine learning to obtain better standard values for 'ideal' and 'poor' conditions, sensor data for analytics will only be taken with the user's consent
+  <br> - More sensors e.g. light sensor
+  <br> - Automatic care - more complex mechanical systems to take care of your plant for you when you are not home, e.g. self-watering functionality""
 
 
 ################### next generation products #################
 # need to implement html
 future:
-  enable : false 
+  enable : false
   section : "NEXT GENERATION"
   title : "Our Future Products"
   content : " Our exclusive research and development team have been working on the next generations in aim for better accuracy for your delicate plants.
@@ -88,7 +92,8 @@ call_to_action:
   section : "NEXT GENERATION"
   title : "Our Future Products"
   content : " Our exclusive research and development team have been working on the next generations in aim for better accuracy for your delicate plants.
-  <br><br> - List of advanced features we haven't made yet
-  <br> - Bloop
-  <br> - bleep"
+  <br><br> List of advanced features:
+  <br> - Using machine learning to obtain better standard values for 'ideal' and 'poor' conditions, sensor data for analytics will only be taken with the user's consent
+  <br> - More sensors e.g. light sensor
+  <br> - Automatic care - more complex mechanical systems to take care of your plant for you when you are not home, e.g. self-watering functionality"
   button_link : "career"
